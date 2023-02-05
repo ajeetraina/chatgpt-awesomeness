@@ -15,3 +15,5 @@
 - [Turning ChatGPT into Docker Playground in 5 Minutes](https://collabnix.com/turning-chatgpt-into-docker-playground-in-5-minutes/)
 - [Getting Started with ChatGPT](https://collabnix.com/getting-started-with-chatgpt/)
 - [Running ChatGPT Client locally on Kubernetes Cluster using Docker Desktop](https://collabnix.com/running-chatgpt-locally-on-kubernetes-cluster-using-docker-desktop/)
+- [Running ChatGPT Client Locally using Docker Desktop](https://collabnix.com/running-chatgpt-locally-using-docker-desktop/)
+- [Using ChatGPT to Build an Optimised Docker Image using Docker Multi-Stage Build](https://collabnix.com/when-chatgpt-meet-docker-for-the-first-time/)
